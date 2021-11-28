@@ -217,7 +217,7 @@ section {
     margin-right: 24px;
 }
 
-.works { }
+/* .works { } */
 
 .works-item {
     margin-bottom: 96px;
@@ -268,7 +268,7 @@ section {
     align-self: flex-start;
 }
 
-.contacts { }
+/* .contacts { } */
 
 .contacts-content { 
     display: flex;
